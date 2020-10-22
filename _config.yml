@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Alessandro Zunino"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/Alessandro_Zunino.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Genoa (Italy)"
   email            : "zuninoalessandro@gmail.com"
