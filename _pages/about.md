@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 layout: archive
 excerpt: "About me"
 author_profile: true
