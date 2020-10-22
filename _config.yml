@@ -16,11 +16,11 @@ minimal_mistakes_skin    : sunrise #"default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Zunino personal website"
+title                    : "Alessandro Zunino Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alessandro Zunino"
-description              : "An amazing website."
+description              : # "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Alessandro Zunino"
   avatar           : "assets/images/Alessandro_Zunino.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Physicist"
   location         : "Genoa (Italy)"
   email            : "zuninoalessandro@gmail.com"
   links:
