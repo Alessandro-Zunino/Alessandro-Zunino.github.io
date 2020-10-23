@@ -10,7 +10,6 @@ image_sliders:
   - home
 ---
 
-{::options parse_block_html="true" /}
 
 <h2>Who am I?</h2>
 <body align="justify">
