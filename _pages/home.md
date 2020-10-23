@@ -4,7 +4,7 @@ layout: single
 excerpt: "Home"
 author_profile: true
 redirect_from:
-  - /
+  - /home/
   - /index.html
 image_sliders:
   - home
