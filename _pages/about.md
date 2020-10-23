@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: default
+layout: single
 excerpt: "About me"
 author_profile: true
 redirect_from:

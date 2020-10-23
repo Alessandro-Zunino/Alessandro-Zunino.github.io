@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-layout: default
+layout: single
 excerpt: "Publications"
 author_profile: true
 redirect_from:
