@@ -97,7 +97,7 @@ author:
   avatar           : "assets/images/Alessandro_Zunino.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physicist"
   location         : "Genoa (Italy)"
-  email            : "zuninoalessandro@gmail.com"
+  email            : # "zuninoalessandro@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
