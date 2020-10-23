@@ -12,7 +12,7 @@ image_sliders:
 
 
 <body align="justify">
-I am Alessandro Zunino, Physicist.
+I do not solve problems. I create the right environment to make them appear neglectable.
 
 
   
