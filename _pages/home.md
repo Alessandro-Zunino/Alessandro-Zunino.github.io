@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 image_sliders:
   - home
