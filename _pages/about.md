@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: archive
+layout: default
 excerpt: "About me"
 author_profile: true
 redirect_from:
