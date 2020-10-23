@@ -97,20 +97,24 @@ author:
   avatar           : "assets/images/Alessandro_Zunino.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physicist"
   location         : "Genoa (Italy)"
-  email            : # "zuninoalessandro@gmail.com"
+  email            : "zuninoalessandro@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "zuninoalessandro@gmail.com"
+      url: # "zuninoalessandro@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.iit.it/it/people/alessandro-zunino"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alessandro-Zunino/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+
 
 # Site Footer
 footer:
