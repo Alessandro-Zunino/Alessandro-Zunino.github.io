@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<html>
+<html lang="fr">
+<head>
+<!-- note the meta tag -->
+<meta http-equiv="refresh" content="0; url=https://alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf" />
+  <meta charset="utf-8">
+  <title>Alessandro Zunino CV</title>
+</head>
 <body>
-
 </body>
-<script type="text/javascript">
-    document.location = "https://alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf"
-</script>
 </html>
