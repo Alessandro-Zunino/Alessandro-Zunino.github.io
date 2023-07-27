@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alessandro Zunino"
   avatar           : "Alessandro Zunino_18393.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Post-doctoral researcher at the Molecular Microscopy and Spectroscopy group at Istituto Italiano di Tecnologia (IIT)"
   location         : "Genoa (Italy)"
-  employer         :
+  employer         : "https://vicidominilab.github.io/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hUaOWTsAAAAJ&hl=en"
   email            : "zuninoalessandro@gmail.com"
