@@ -9,4 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf" target="_blank">PDF.</a>
+<html>
+<body>
+
+</body>
+<script type="text/javascript">
+    document.location = "alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf"
+</script>
+</html>
