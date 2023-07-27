@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alessandro Zunino"
   avatar           : "Alessandro Zunino_18393.jpg"
-  bio              : "Post-doctoral researcher at the Molecular Microscopy and Spectroscopy (MMS) group in the Italian Institute of Technology (IIT)."
+  bio              : "Post-doctoral researcher at the <a href=https://vicidominilab.github.io/>Molecular Microscopy and Spectroscopy</a> group in the Italian Institute of Technology (IIT)."
   location         : "Genoa (Italy)"
-  employer         : "<a href=https://vicidominilab.github.io/>MMS webpage</a>"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hUaOWTsAAAAJ&hl=en"
   email            : "zuninoalessandro@gmail.com"
