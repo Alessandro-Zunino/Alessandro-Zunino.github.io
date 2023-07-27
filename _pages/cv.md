@@ -14,6 +14,6 @@ redirect_from:
 
 </body>
 <script type="text/javascript">
-    document.location = "alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf"
+    document.location = "https://alessandro-zunino.github.io/files/AZunino_Academic_CV.pdf"
 </script>
 </html>
