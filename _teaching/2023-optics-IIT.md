@@ -26,12 +26,11 @@ Syllabus/Content
 
 The course is focused on theory and applications.
 
-    Class 1 (2h): Fundamentals of optics (geometrical, scalar, and vectorial optics)
-    Class 2 (2h): Imaging and wide-field microscopy
-    Class 3 (2h): Confocal microscopy, Image Scanning Microscopy, STED microscopy
-    Class 4 (2h): Non-linear optics, multiphoton fluorescence and second harmonic generation microscopy
-    Class 5 (2h): Fluorescence correlation spectroscopy, fluorescence fluctuation spectroscopy, fluorescence lifetime
-    Class 6 (2h): Visit of the laboratory and experimental demonstrations
-
+* Class 1 (2h): Fundamentals of optics (geometrical, scalar, and vectorial optics)
+* Class 2 (2h): Imaging and wide-field microscopy
+* Class 3 (2h): Confocal microscopy, Image Scanning Microscopy, STED microscopy
+* Class 4 (2h): Non-linear optics, multiphoton fluorescence and second harmonic generation microscopy
+* Class 5 (2h): Fluorescence correlation spectroscopy, fluorescence fluctuation spectroscopy, fluorescence lifetime
+* Class 6 (2h): Visit of the laboratory and experimental demonstrations
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Eli Slenders](https://vicidominilab.github.io/team/ES/)*
