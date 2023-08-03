@@ -8,6 +8,9 @@ date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
 
+Short course of the fundamentals of optics, imaging, and microscoppy.
+
+[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
 
 Learning Outcames
 ======
@@ -30,6 +33,5 @@ The course is focused on theory and applications.
     Class 5 (2h): Fluorescence correlation spectroscopy, fluorescence fluctuation spectroscopy, fluorescence lifetime
     Class 6 (2h): Visit of the laboratory and experimental demonstrations
 
-[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Eli Slenders](https://vicidominilab.github.io/team/ES/)*
