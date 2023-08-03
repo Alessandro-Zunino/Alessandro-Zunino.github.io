@@ -1,9 +1,9 @@
 ---
-title: "Ph.D. Short course"
+title: "Optics for Microscopy and Spectroscopy"
 collection: teaching
 type: "Ph.D. short course"
 permalink: /teaching/2023-optics-IIT
-venue: "University 1, Department"
+venue: "University of Genoa, DIBRIS"
 date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
@@ -17,11 +17,6 @@ Light is an essential tool for many important scientific applications, such as o
 
 Content
 ======
-
-Optics for Microscopy and Spectroscopy
-
-Download - Lecture notes
-Learning Outcomes
 
 Light is an essential tool for many important scientific applications, such as optical microscopy and spectroscopy. This course is intended to provide the essential theoretical background of optics and imaging. In particular, the course will focus on traditional and state-of-the-art optical techniques. Additionally, students will have the opportunity to attend a demonstration with custom-built optical setups. The student will acquire a general overview of the physical principles of modern optical techniques and their most relevant applications.
 Syllabus/Content
