@@ -9,9 +9,8 @@ location: "Genoa, Italy"
 ---
 
 Exercises on classical mechanics and electromagnetism.
+The lectures had place from spring 2019 to summer 2020.
 
 University webpage of the course: [General Physics 1 - 2019/2020](https://corsi.unige.it/en/off.f/2019/ins/36636)
 
-Here available the text of the exercises with the solutions (in italian):
-
-[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
+The text of the exercises with the solutions are available (in italian): [**Exercises with solution**](https://alessandro-zunino.github.io/files/ESERCITAZIONI.rar)
