@@ -1,7 +1,7 @@
 ---
 title: "General Physics 1 - Teaching assistant"
 collection: teaching
-type: "Ph.D. short course"
+type: "Undergraduate course"
 permalink: /teaching/2019-physics1TA-unige
 venue: "University of Genoa, DIFI"
 date: 1st March 2019 - 30th June 2023
