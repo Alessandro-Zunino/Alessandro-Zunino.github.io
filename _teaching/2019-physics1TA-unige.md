@@ -4,7 +4,7 @@ collection: teaching
 type: "Ph.D. short course"
 permalink: /teaching/2019-physics1TA-unige
 venue: "University of Genoa, DIFI"
-date: 2019
+date: 1st March 2019 - 30th June 2023
 location: "Genoa, Italy"
 ---
 
