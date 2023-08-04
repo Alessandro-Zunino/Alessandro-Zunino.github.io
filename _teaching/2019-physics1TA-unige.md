@@ -11,7 +11,7 @@ location: "Genoa, Italy"
 Exercises on classical mechanics and electromagnetism.
 
 
-University webpage of the course: https://corsi.unige.it/en/off.f/2019/ins/36636
+University webpage of the course: [General Physics 1 - 2019/2020](https://vicidominilab.github.io/files/teaching-1.pdf)
 
 
 Here available the text of the exercises with the solutions (in italian):
