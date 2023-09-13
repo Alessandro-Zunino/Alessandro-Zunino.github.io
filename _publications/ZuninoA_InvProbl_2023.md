@@ -6,8 +6,7 @@ venue: 'Inverse Probl.'
 authors: 'Alessandro Zunino, Marco Castello, Giuseppe Vicidomini'
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6420/accdc5
 doi: 10.1088/1361-6420/accdc5
-tagline: '- Paper, Corresponding author'
-type: "Img Proc Anal, BrightEyes"
+tagline: '- Paper'
 ---
 
 <h2> Abstract </h2>
