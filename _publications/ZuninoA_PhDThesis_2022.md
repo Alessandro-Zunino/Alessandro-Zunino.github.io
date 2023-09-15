@@ -2,7 +2,7 @@
 title: "Fast control of light through acousto-optics"
 collection: publications
 date: 2022-06-17
-venue: 'Nature Communications'
+venue: 'University of Genoa'
 authors: 'Alessandro Zunino'
 paperurl: https://doi.org/10.15167/zunino-alessandro_phd2022-06-17
 citation: 'Alessandro Zunino. “Fast control of light through acousto-optics”. University of Genoa, 2022.'
