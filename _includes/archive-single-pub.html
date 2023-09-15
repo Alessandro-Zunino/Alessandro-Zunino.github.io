@@ -97,11 +97,22 @@
 
             {% capture author_names %}
               {% for author in authors %}
+
                 {% if author contains 'Alessandro Zunino' %}
-                  <u>{{ author }}</u>
+                     <u>{{ author }}</u>
                 {% endif %}
                 {% assign found = true %}
-              {% endfor %}
+
+                {% for team in site.team %}
+                  {% if author contains team.authorname %}
+                    {% if author != authors[nauthors] %}
+                      <a href="{{ team.url }}">*<u>{{ author }}</u>*</a>,
+                    {% else %}
+                      <a href="{{ team.url }}">*<u>{{ author }}</u>*</a>
+                    {% endif %}
+                    {% assign found = true %}
+                  {% endif %}
+                {% endfor %}
 
                 {% for collaborator in site.collaborations %}
                   {% if author contains collaborator.authorname %}
