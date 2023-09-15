@@ -20,7 +20,8 @@ author_profile: true
     <ul style="margin:0;padding:0">
     {% assign date = currentdate %}
   {% endif %}
-  {% include archive-single-pub.html %}
+  {% if post.authors contains 'Alessandro Zunino' %}
+    {% include archive-single-pub.html %}
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
