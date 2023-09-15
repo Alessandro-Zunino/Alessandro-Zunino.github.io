@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alessandro Zunino personal website - under construction"
+title: "Alessandro Zunino"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
