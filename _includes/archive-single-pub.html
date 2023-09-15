@@ -99,7 +99,11 @@
               {% for author in authors %}
 
                 {% if author contains 'Alessandro Zunino' %}
-                     <u>{{ author }}</u>
+                    {% if author != authors[nauthors] %}
+                      <u>{{ author }}</u>,
+                    {% else %}
+                      <u>{{ author }}</u>
+                    {% endif %}
                 {% endif %}
                 {% assign found = true %}
 
