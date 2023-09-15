@@ -104,8 +104,8 @@
                     {% else %}
                       <u>{{ author }}</u>
                     {% endif %}
+                    {% assign found = true %}
                 {% endif %}
-                {% assign found = true %}
 
                 {% for team in site.team %}
                   {% if author contains team.authorname %}
