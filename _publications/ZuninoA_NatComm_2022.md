@@ -9,7 +9,7 @@ authors: 'Giorgio Tortarolo (†), Alessandro Zunino (†), Francesco Fersini, M
 paperurl: https://doi.org/10.1038/s41467-022-35333-y
 citation: 'Tortarolo, G., Zunino, A., Fersini, F. et al. Focus image scanning microscopy for sharp and gentle super-resolved microscopy. Nat Commun 13, 7723 (2022).'
 doi: 10.1038/s41467-022-35333-y
-tagline: '- Paper, (†): shared first authorship'
+tagline: '- Paper, †: shared first authorship'
 ---
 
 <h2> Abstract </h2>

@@ -2,10 +2,11 @@
 title: "Reconstructing the Image Scanning Microscopy Dataset: an Inverse Problem"
 collection: publications
 date: 2023-04-28
-venue: 'Inverse Probl.'
+venue: 'Inverse Problems'
 authors: 'Alessandro Zunino, Marco Castello, Giuseppe Vicidomini'
-paperurl: https://iopscience.iop.org/article/10.1088/1361-6420/accdc5
+paperurl: https://doi.org/10.1088/1361-6420/accdc5
 doi: 10.1088/1361-6420/accdc5
+citation: 'Alessandro Zunino et al 2023 Inverse Problems 39 064004'
 tagline: '- Paper'
 ---
 
