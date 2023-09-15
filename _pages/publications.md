@@ -20,9 +20,7 @@ author_profile: true
     <ul style="margin:0;padding:0">
     {% assign date = currentdate %}
   {% endif %}
-  {% if post.authors contains 'Eli Slenders' %}
-    {% include archive-single-pub.html %}
-  {% endif %}
+  {% include archive-single-pub.html %}
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
