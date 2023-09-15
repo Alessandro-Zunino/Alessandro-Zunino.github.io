@@ -22,6 +22,7 @@ author_profile: true
   {% endif %}
   {% if post.authors contains 'Alessandro Zunino' %}
     {% include archive-single-pub.html %}
+  {% endif %}
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
