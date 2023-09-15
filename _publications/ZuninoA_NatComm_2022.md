@@ -12,9 +12,7 @@ doi: 10.1038/s41467-022-35333-y
 tagline: '- Paper'
 ---
 
-
-
-See on journal website: https://doi.org/10.1038/s41467-022-35333-y
+[Download paper here](https://doi.org/10.1038/s41467-022-35333-y)
 
 <h2> Abstract </h2>
 <p align= "justify">
