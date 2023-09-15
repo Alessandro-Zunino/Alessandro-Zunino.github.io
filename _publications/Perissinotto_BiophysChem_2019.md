@@ -1,7 +1,7 @@
 ---
 title: "GM1 Ganglioside role in the interaction of Alpha-synuclein with lipid membranes: Morphology and structure"
 collection: publications
-date: 2019-09-18
+date: 2019-10-18
 venue: 'Biophysical Chemistry'
 authors: 'Fabio Perissinotto, Valeria Rondelli, Pietro Parisse, Nicolò Tormena, Alessandro Zunino, László Almásy, Dániel Géza Merkel, László Bottyán, Szilárd Sajti, Loredana Casalis'
 paperurl: https://doi.org/10.1016/j.bpc.2019.106272

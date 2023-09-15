@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Multifocus Laser Writing with Acousto-Optofluidics"
 collection: publications
-date: 2019-09-01
+date: 2019-10-01
 venue: 'Advanced Materials Technologies'
 authors: 'Alessandro Zunino, Salvatore Surdo, Martí Duocastella'
 paperurl: https://doi.org/10.1002/admt.201900623
