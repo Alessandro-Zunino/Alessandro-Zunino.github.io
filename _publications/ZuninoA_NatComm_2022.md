@@ -7,13 +7,14 @@ volume: 13
 pages: 7723
 authors: 'Giorgio Tortarolo, Alessandro Zunino, Francesco Fersini, Marco Castello, Simonluca Piazza, Colin J.R. Sheppard, Paolo Bianchini, Alberto Diaspro, Sami V. Koho, Giuseppe Vicidomini'
 paperurl: https://www.nature.com/articles/s41467-022-35333-y
+citation: 'Tortarolo, G., Zunino, A., Fersini, F. et al. Focus image scanning microscopy for sharp and gentle super-resolved microscopy. Nat Commun 13, 7723 (2022). https://doi.org/10.1038/s41467-022-35333-y'
 doi: 10.1038/s41467-022-35333-y
 tagline: '- Paper'
 ---
 
-See on journal website: https://doi.org/10.1038/s41467-022-35333-y
 
-Cite as: Tortarolo, G., Zunino, A., Fersini, F. et al. Focus image scanning microscopy for sharp and gentle super-resolved microscopy. Nat Commun 13, 7723 (2022). https://doi.org/10.1038/s41467-022-35333-y
+
+See on journal website: https://doi.org/10.1038/s41467-022-35333-y
 
 <h2> Abstract </h2>
 <p align= "justify">
