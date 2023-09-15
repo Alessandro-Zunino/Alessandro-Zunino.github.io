@@ -3,7 +3,7 @@ title: "Acousto-optic systems for advanced microscopy"
 collection: publications
 date: 2020-11-24
 venue: 'Journal of Physics: Photonics'
-authors: 'Martí Duocastella and Salvatore Surdo and Alessandro Zunino and Alberto Diaspro, Peter Saggau'
+authors: 'Martí Duocastella, Salvatore Surdo, Alessandro Zunino, Alberto Diaspro, Peter Saggau'
 paperurl: https://doi.org/10.1088/2515-7647/abc23c
 doi: 10.1088/2515-7647/abc23c
 citation: 'Martí Duocastella et al 2021 J. Phys. Photonics 3 012004'
