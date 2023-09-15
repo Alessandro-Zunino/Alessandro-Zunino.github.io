@@ -6,8 +6,9 @@ venue: 'Photonics'
 volume: 10
 issue: 601
 authors: 'Colin J.R. Sheppard, Marco Castello, Giorgio Tortarolo, Alessandro Zunino, Eli Slenders, Paolo Bianchini, Giuseppe Vicidomini, Alberto Diaspro'
-paperurl: https://www.mdpi.com/2304-6732/10/5/601
+paperurl: https://doi.org/10.3390/photonics10050601
 doi: 10.3390/photonics10050601
+citation: 'Sheppard, C.J.R.; Castello, M.; Tortarolo, G.; Zunino, A.; Slenders, E.; Bianchini, P.; Vicidomini, G.; Diaspro, A. Background Rejection in Two-Photon Fluorescence Image Scanning Microscopy. Photonics 2023, 10, 601.'
 tagline: '- Paper'
 ---
 

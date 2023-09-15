@@ -2,13 +2,14 @@
 title: "Signal strength and integrated intensity in confocal and image scanning microscopy"
 collection: publications
 date: 2022-12-19
-venue: 'J. Opt. Soc. Am. A'
+venue: 'Journal of Optical Society of America A'
 volume: 40
 issue: 1
 pages: 138-148
 authors: 'Colin J.R. Sheppard, Marco Castello, Giorgio Tortarolo, Alessandro Zunino, Eli Slenders, Paolo Bianchini, Giuseppe Vicidomini, Alberto Diaspro'
-paperurl: https://opg.optica.org/josaa/abstract.cfm?uri=josaa-40-1-138
+paperurl: https://doi.org/10.1364/JOSAA.477240
 doi: 10.1364/JOSAA.477240
+citation: 'Colin J. R. Sheppard, Marco Castello, Giorgio Tortarolo, Alessandro Zunino, Eli Slenders, Paolo Bianchini, Giuseppe Vicidomini, and Alberto Diaspro, "Signal strength and integrated intensity in confocal and image scanning microscopy," J. Opt. Soc. Am. A 40, 138-148 (2023) '
 tagline: '- Paper'
 ---
 
