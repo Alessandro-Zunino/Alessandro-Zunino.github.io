@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-nikon-school-IIT
 venue: "Istituto Italiano di Tecnologia"
-date: 2021 - 2022
+date: 29th November 2021
 location: "Genoa, Italy"
 ---
 
