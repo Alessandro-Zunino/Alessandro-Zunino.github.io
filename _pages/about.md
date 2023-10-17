@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="width: 75%" class="align-center-custom">
+<figure style="width: 100%" class="align-center-custom">
 <img src='/images/Alessandro_Zunino_Lab.jpg'>
 </figure>
 
