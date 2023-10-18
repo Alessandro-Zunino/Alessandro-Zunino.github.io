@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Calibration notebooks"
+excerpt: "Calibration notebooks for microscopy<br/><img src='/images/zeta_calibration.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<figure style="width: 100%" class="align-center-custom">
+<img src='/images/zeta_calibration_large.png'>
+</figure>
+
+
+In this [notebook](https://github.com/Alessandro-Zunino/Calibration_for_microscopy/blob/main/Notebooks/zeta_calibration.ipynb)
+I show the analysis workflow for calibrating the Z-scanner of a laser scanning microscope.
