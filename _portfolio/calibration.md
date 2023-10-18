@@ -1,7 +1,7 @@
 ---
 title: "Calibration notebooks"
 excerpt: "Calibration notebooks for microscopy<br/><img src='/images/zeta_calibration.png'>"
-collection: portfolio
+collection: resources
 ---
 
 <figure style="width: 100%" class="align-center-custom">
