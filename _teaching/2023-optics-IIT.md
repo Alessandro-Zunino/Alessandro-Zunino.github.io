@@ -10,7 +10,7 @@ location: "Genoa, Italy"
 
 Short course of the fundamentals of optics, imaging, and microscoppy.
 
-[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Lecture notes](https://alessandro-zunino.github.io/files/Lecture-notes.pdf)
 
 Learning Outcomes
 ======
