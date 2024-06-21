@@ -10,7 +10,7 @@ location: "Genoa, Italy"
 
 Short course of the fundamentals of optics, imaging, and microscoppy.
 
-[**Download** - Lecture notes](https://alessandro-zunino.github.io/files/Lecture-notes.pdf)
+[**Download** - Lecture notes](https://alessandro-zunino.github.io/files/Lecture_notes.pdf)
 
 Learning Outcomes
 ======
@@ -28,7 +28,7 @@ The course is focused on theory and applications.
 
 * Class 1 (2h): Fundamentals of optics (geometrical, scalar, and vectorial optics)
 * Class 2 (2h): Imaging and wide-field microscopy
-* Class 3 (2h): Confocal microscopy, Image Scanning Microscopy, STED microscopy
+* Class 3 (2h): Confocal microscopy, Image Scanning Microscopy, STED microscopy, Structured Illumination Microscopy
 * Class 4 (2h): Non-linear optics, multiphoton fluorescence and second harmonic generation microscopy
 * Class 5 (2h): Fluorescence correlation spectroscopy, fluorescence fluctuation spectroscopy, fluorescence lifetime
 * Class 6 (2h): Visit of the laboratory and experimental demonstrations
