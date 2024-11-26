@@ -7,5 +7,5 @@ authors: 'Daniele Ancora (†), Alessandro Zunino (†), Giuseppe Vicidomini, Al
 paperurl: https://doi.org/10.1088/2515-7647/ad68dd
 doi: 10.1088/2515-7647/ad68dd
 citation: 'Daniele Ancora et al 2024 J. Phys. Photonics 6 045003'
-tagline: '- Paper'
+tagline: '- Paper, †: shared first authorship'
 ---
