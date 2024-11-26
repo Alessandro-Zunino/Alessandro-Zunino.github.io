@@ -71,6 +71,8 @@
         <img src="{{ "InverseProblems.png" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Advanced Photonics" %}
         <img src="{{ "AdvancedPhotonics.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Open Source Software" %}
+        <img src="{{ "JOSS.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
       {% endif %}
